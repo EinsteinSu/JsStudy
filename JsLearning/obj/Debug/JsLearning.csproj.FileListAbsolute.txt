@@ -1,0 +1,6 @@
+C:\Users\esu\Documents\JsStudy\JsLearning\bin\JsLearning.dll.config
+C:\Users\esu\Documents\JsStudy\JsLearning\bin\JsLearning.dll
+C:\Users\esu\Documents\JsStudy\JsLearning\bin\JsLearning.pdb
+C:\Users\esu\Documents\JsStudy\JsLearning\obj\Debug\JsLearning.csprojResolveAssemblyReference.cache
+C:\Users\esu\Documents\JsStudy\JsLearning\obj\Debug\JsLearning.dll
+C:\Users\esu\Documents\JsStudy\JsLearning\obj\Debug\JsLearning.pdb
